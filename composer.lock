@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "7c3bb046b660151ef7a1c78d7f14e2f2",
+    "hash": "c2cb7a8b358e8a1a8e0393a2240ae895",
     "packages": [
         {
             "name": "videlalvaro/php-amqplib",
